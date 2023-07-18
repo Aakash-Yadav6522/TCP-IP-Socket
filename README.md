@@ -4,7 +4,7 @@ TCP is a Network Protocol which allows well-founded communication between applic
 1) A client creates a  socket at its end of transmission
 2) Connect the socket to the server
 3) When connection is estlablished, the server create a socket
-4)the client and server can now ready communicate through writing and reading methods
+4) the client and server can now ready communicate through writing and reading methods
 # Features
 1) Two-way communication channel between a client and a server
 2) The combination of an IP address and port Number uniquely identifies
